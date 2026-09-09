@@ -384,6 +384,28 @@
 
 ---
 
+## 机场客户端下载｜Clash / Shadowrocket / v2rayN 全平台推荐
+
+机场只提供订阅链接，还需要客户端来导入。以下均直连 GitHub / App Store 官方渠道，不含推广参数。
+
+| 客户端 | 平台 | 价格 | 说明 | 下载 |
+|--------|------|------|------|------|
+| Clash Verge Rev | Win / macOS / Linux | 免费开源 | 桌面端首选，Mihomo 内核 | [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) |
+| FlClash | Win / macOS / Linux / 安卓 | 免费开源 | 四端通用，界面更现代 | [GitHub](https://github.com/chen08209/FlClash) |
+| v2rayN | Win / macOS / Linux | 免费开源 | 老牌，配置项细 | [GitHub](https://github.com/2dust/v2rayN) |
+| Clash Meta for Android | 安卓 | 免费开源 | 安卓上最常见的选择 | [GitHub](https://github.com/MetaCubeX/ClashMetaForAndroid) |
+| v2rayNG | 安卓 | 免费开源 | 简单直接，导入快 | [GitHub](https://github.com/2dust/v2rayNG) |
+| Shadowrocket（小火箭） | iOS | 付费 | iOS 用户最多，教程默认 | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) |
+| Nextin（星拓） | iOS / macOS | 免费 | 支持 Reality、Hysteria2 ¹ | [App Store](https://apps.apple.com/us/app/nextin/id6754002454) |
+| Stash | iOS / macOS | 付费 | 苹果原生风格 | [App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
+| Hiddify | 五端通用 | 免费开源 | sing-box / Xray 内核 ¹ | [GitHub](https://github.com/hiddify/hiddify-app) |
+
+¹ Nextin 需非中国大陆 Apple ID 才能搜到；Hiddify 的 iOS 版另有 IPA 直装包。FlClash 认准 `chen08209/FlClash`、Hiddify 认准 `hiddify/hiddify-app`，两者都有仿冒仓库。
+
+→ 导入教程见 [Clash / Shadowrocket / v2rayN 订阅导入](https://yifenjichang.net/faq/#client-import)，完整说明见 <https://yifenjichang.net/downloads/>
+
+---
+
 ## 机场推荐常见问题 FAQ
 
 ### 便宜机场靠谱吗？
@@ -451,4 +473,4 @@
 
 ---
 
-<sub>本页所有对外链接均为 <code>yifenjichang.net/go/</code> 跳转链接，可能包含联盟推广参数。通过链接完成的购买我们可能获得佣金，不会增加您的成本。</sub>
+<sub>本页的<strong>机场</strong>链接为 <code>yifenjichang.net/go/</code> 跳转链接，可能包含联盟推广参数，通过链接完成的购买我们可能获得佣金，不会增加您的成本。<strong>客户端</strong>链接直连 GitHub / App Store 官方渠道，不含推广参数，我们从中不获得收益。</sub>
